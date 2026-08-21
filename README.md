@@ -1,34 +1,30 @@
-# 👋 ¡Hola! Soy Miguel Ángel de Marcos
+# Miguel Ángel de Marcos
 
-🎯 Profesional IT con más de 5 años de experiencia en administración de sistemas, actualmente centrado en **Cloud Computing, Ciberseguridad y Automatización**.
+IT Analyst at Cabify. Six years in systems administration and support, currently moving
+toward infrastructure automation and platform engineering.
 
-🧠 En continuo aprendizaje y evolución, compaginando mi trabajo como administrador de sistemas con una formación sólida en seguridad, virtualización y tecnologías cloud.
+## What I do
 
----
+I manage IT projects and internal tooling in a hybrid Microsoft/Google environment:
+identity, endpoint management, and workflow automation across roughly 1,000 users.
+Before Cabify I ran on-premise and cloud infrastructure — Windows Server, Active Directory,
+Entra ID, Intune, virtualization, networking, and backup.
 
-## 💼 Experiencia y especialización
+## What I'm working on
 
-- 👨‍💻 **Administrador de Sistemas** en entorno empresarial (Windows/Linux)
-- ☁️ **Cloud**: Azure AD, Intune, Azure Backup, MFA, Conditional Access, AD Connect (alta disponibilidad)
-- 🔒 **Ciberseguridad**: Gestión de accesos, hardening, monitorización, backups, iptables, Wireshark
-- 🔁 **Automatización**: Scripts en PowerShell y Bash para tareas de gestión y seguridad
-- 🖥️ **Infraestructura**: GPOs, DNS, DHCP, RMM (N-able), Zabbix, Veeam, Hyper-V, vSphere
+Building a homelab to learn infrastructure as code properly: Proxmox provisioned with
+Terraform, configuration managed with Ansible, and a small Kubernetes cluster for
+observability practice. Everything version-controlled here as I go.
 
----
+Repositories will appear as each piece actually works.
 
-## 🛠️ Tecnologías y herramientas
+## Background
 
-# Sistemas operativos
-Windows Server • Linux (Debian, Kali, Ubuntu)
+- **Systems**: Windows Server, Linux (Debian, Ubuntu, SUSE), Active Directory, Entra ID, Intune
+- **Infrastructure**: Hyper-V, VMware, networking (VLANs, VPNs, firewalls), Veeam
+- **Scripting**: PowerShell, Bash, Python (learning)
+- **Certifications**: AZ-900, Palo Alto and Fortinet fundamentals
 
-# Cloud & Seguridad
-Azure AD • Intune • MFA • Conditional Access • Azure AD Connect
+## Contact
 
-# Automatización y scripting
-PowerShell • Bash • Python (básico-intermedio)
-
-# Virtualización y contenedores
-Hyper-V • VMware • Docker • Kubernetes (en formación)
-
-# Monitorización y backup
-Veeam • Zabbix • N-able RMM • Windows Server Backup
+[LinkedIn](https://www.linkedin.com/in/miguel-ángel-de-marcos-8a670a250/)
